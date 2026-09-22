@@ -92,4 +92,4 @@ Electronics & Communication Engineering
 
 Live interactive dashboard:
 
-https://public.tableau.com/views/Ecommerce_17900801997400/E-CommerceAnalyticsDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+👉 [View Interactive Dashboard on Tableau Public] https://public.tableau.com/views/Ecommerce_17900801997400/E-CommerceAnalyticsDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
